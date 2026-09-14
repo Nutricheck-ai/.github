@@ -1,0 +1,8 @@
+# This working tree sits next to private product folders.
+# Ignore everything except the GitHub org profile files.
+
+*
+!.gitignore
+!README.md
+!profile/
+!profile/**
